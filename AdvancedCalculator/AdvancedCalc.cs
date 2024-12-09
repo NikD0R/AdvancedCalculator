@@ -1,4 +1,5 @@
 ﻿using System;
+// Advanced calculator
 
 public class AdvancedCalc : OrdinaryCalc, IAdvanced
 {

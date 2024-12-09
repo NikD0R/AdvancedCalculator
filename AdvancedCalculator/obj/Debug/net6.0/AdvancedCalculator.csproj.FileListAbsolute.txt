@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0\AdvancedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0\AdvancedCalculator.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0\AdvancedCalculator.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0\AdvancedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\net6.0\AdvancedCalculator.exe
+C:\Users\Пользователь\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\net6.0\AdvancedCalculator.deps.json
+C:\Users\Пользователь\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\net6.0\AdvancedCalculator.runtimeconfig.json
+C:\Users\Пользователь\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\net6.0\AdvancedCalculator.dll
+C:\Users\Пользователь\source\repos\AdvancedCalculator\AdvancedCalculator\bin\Debug\net6.0\AdvancedCalculator.pdb
+C:\Users\Пользователь\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0\AdvancedCalculator.dll
+C:\Users\Пользователь\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0\refint\AdvancedCalculator.dll
+C:\Users\Пользователь\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0\AdvancedCalculator.pdb
+C:\Users\Пользователь\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0\AdvancedCalculator.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\AdvancedCalculator\AdvancedCalculator\obj\Debug\net6.0\ref\AdvancedCalculator.dll
